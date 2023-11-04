@@ -1,2 +1,2 @@
-# Class Work and Projects
-A Collection of my Work from Northwestern University and the University of Notre Dame
+# Class Work and Projects - Davis Johnson
+Welcome to my GitHub page!
